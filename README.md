@@ -28,3 +28,8 @@ Output
 * Branch currents I(s)
 * Branch voltages V(s)
 
+
+# Sample Output
+
+![Output](example_output.png)
+
